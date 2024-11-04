@@ -42,3 +42,15 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+//Create a txt file or csv file name it is command.txt in that text file input all the followings
+windows.info.Info
+windows.pslist.PsList
+windows.pstree.PsTree
+windows.psscan.PsScan
+windows.cmdline
+windows.envars
+windows.getsids
+windows.privileges
+
+//Then RUN the CODE
